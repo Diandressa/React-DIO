@@ -1,2 +1,0 @@
-# DOM (Document Object Model)
-
